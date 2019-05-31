@@ -1,1 +1,1 @@
-# info474-lab8
+# Heapmap of U.S. Fast Food Restaurants
